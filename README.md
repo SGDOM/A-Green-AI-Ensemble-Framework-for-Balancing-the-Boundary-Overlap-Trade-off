@@ -1,4 +1,4 @@
-# Ensemble-Framework-for-Glioblastoma-Tumor-Segmentation-Algorithm-Evaluation-and-GUI-Development
+# A Green AI Ensemble Framework for Balancing the Boundary-Overlap Trade-off 
 
 
 ## Required environment
